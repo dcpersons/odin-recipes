@@ -10,10 +10,18 @@ h1, h2 {
     text-align: center;
 }
 
+h1 {
+    background-color: #da74006e;
+    width: fit-content;
+    margin: 8px auto;
+    padding: 4px 8px;
+    border: 4px; border-color: #884901ad; border-style: solid;
+}
+
 .home {
     background-color: #00c3ff50;
     width: fit-content;
-    margin: 0px auto;
+    margin: 16px;
     padding: 8px 16px;
 }
 
@@ -24,6 +32,8 @@ figure {
 
 figcaption {
     text-align: center;
+    font-size: 80%;
+    color: #727272
 }
 
 ul { 
