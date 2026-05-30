@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+    border-width: 0px;
+    border-color: red;
+    border-style: solid;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.link {
+    margin: 16px auto;
+    width: fit-content;
+    background-color: #fdeab4;
+    padding: 16px 32px;
+}
+
+.home {
+    background-color: #00c3ff50;
+    width: fit-content;
+    margin: 0px auto;
+    padding: 8px 16px;
+}
+
+figure {
+    margin: 0px auto;
+    width: fit-content;
+}
+
+figcaption {
+    text-align: center;
+}
+
+.ingredients { 
+    width: fit-content;
+    margin: 8px auto;
+}
+
+.steps {
+    width: 1000px;
+    margin: 8px auto;
+}
+
+li {
+    margin: 8px 0
+}
+
+div {
+    text-align: center;
+}
